@@ -363,13 +363,13 @@ setggps({
       data : ggps.re,
       backgroundColor: [
         'rgba(0, 153, 0, 0.3)'
-        // 'white'
+      
       ],
       borderColor: 'green',
       borderWidth: 2,
       pointHoverBorderColor : 'black',
       pointHoverBorderWidth: 10
-      // radius : 20
+    
     },
 
 
