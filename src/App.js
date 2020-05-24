@@ -312,7 +312,7 @@ const urlqq = 'https://api.covid19india.org/v2/state_district_wise.json';
   
 
 fetch(urlqq).then(response => {
-   return response.json()
+   return response.json();
  }).then(data => {
   
   for(var i=0;i< data[po].districtData.length;i++)
@@ -346,11 +346,11 @@ setggps({
     {
       label : 'active',
       data : ggps.ac,
-      // borderColor: 'rgb(0, 120, 0)',
+     
       borderColor: 'blue',
       backgroundColor: [
         'rgba(0, 76, 153, 0.3)'
-        // 'white'
+    
       ],
       borderWidth: 2,
       pointHoverBorderColor : 'black',
