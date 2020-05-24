@@ -312,7 +312,7 @@ const urlqq = 'https://api.covid19india.org/v2/state_district_wise.json';
   
 
 fetch(urlqq).then(response => {
-   return response.json();
+   return response.json()
  }).then(data => {
   
   for(var i=0;i< data[po].districtData.length;i++)
