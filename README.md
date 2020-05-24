@@ -4,7 +4,7 @@
  <td><img src="images/19.gif" height="300px" width="550px"  /></td>
  <td>
    This is the glimpes of the project . <br/>
-   It is developed using <b>react js</b> , which is a library of a <b>js</b> (javascript) .
+   It is developed using <b>react js</b> , <br/>which is a library of a <b>js</b> (javascript) .
    <b>EXTRA PACKAGES USED ARE :</b>
    <ul>
    <b><li>Radium</li></b>
