@@ -82,9 +82,7 @@ tr{
  } */
 
 /* table {
-  border-collapse: separate;
-  border-spacing: 0 1em;
-} */
+ 
 
 
 table {
@@ -94,9 +92,7 @@ table {
   /* text-align: center; */
 }
 
-/* td {
-  padding: 8px 5px;
- } */
+
 
   
  td {
