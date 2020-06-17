@@ -53,10 +53,9 @@ const StaCit = (event) => {
      border: "none",
      borderRadius: 5,
      Outline:0,
-    //  backgroundColor:  "#f70939"
+
     backgroundColor: "#b9bdb5",
-    // fontFamily: "'Viga', sans-serif"
-    // fontFamily: "'Londrina Sketch', cursive"
+
     fontFamily: "'Inria Sans', sans-serif",
     fontWeight: "bold"
  }
