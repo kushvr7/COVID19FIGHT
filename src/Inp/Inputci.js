@@ -16,10 +16,6 @@ const StaCit = (event) => {
 };
 
 
-// const str = state.nam;
-// const arr = str.split(",");
-
-// console.log(arr[0] , arr[1]);
 
 
 
@@ -38,19 +34,16 @@ const StaCit = (event) => {
       transition: "0.5s",
       ':focus' : {
         width: 290,
-        // borderColor: "black",
-        // Outline:"none"
-        // borderColor: "aquamarine",
+
         
       }
-    //   borderBottom: " 2  black "
+
 
   }
 
   const sty ={
       color: "#b9bdb5",
       fontSize:14,
-    //   fontWeight: "bold",
       fontFamily : "'Inria Sans', sans-serif"
   }
 
